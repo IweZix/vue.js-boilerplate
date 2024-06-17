@@ -65,17 +65,6 @@ npm run lint
 npm run format
 ```
 
-## 📂 Folder
-
-- **assets:** contains images, fonts, etc.
-- **components:** contains Vue components.
-- **router:** contains Vue Router.
-- **scripts:** contains external scripts.
-- **services:** contains services.
-- **types:** contains types (if needed).
-- **utils:** contains utilities (like renderPageTitle).
-- **views:** contains views.
-
 ## Request & Promises
 
 I recommend using Axios for making requests and using Promises.
