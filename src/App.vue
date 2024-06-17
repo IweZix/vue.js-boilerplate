@@ -2,7 +2,7 @@
 /**
  * Import of App component
  */
-import NavbarComponent from './components/navbar/NavbarComponent.vue';
+import NavbarComponent from '@/layouts/NavbarComponent.vue';
 </script>
 
 <template>
