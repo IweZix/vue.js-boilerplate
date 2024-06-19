@@ -1,4 +1,11 @@
-# vue-boilerplate
+<h1 align="center"> vue-boilerplate </h1>
+
+<div align="center">
+    <a href="https://img.shields.io/github/license/IweZix/WezBot"><img src="https://img.shields.io/github/license/IweZix/vue-boilerplate" alt="license"/></a>
+    <a href="https://img.shields.io/github/forks/IweZix/WezBot"><img src="https://img.shields.io/github/forks/IweZix/vue-boilerplate" alt="forks"/></a>
+    <a href="https://img.shields.io/github/languages/count/IweZix/WezBot"><img src="https://img.shields.io/github/languages/count/IweZix/vue-boilerplate" alt="language-count"/></a>
+    <a href="https://img.shields.io/github/issues-pr/IweZix/WezBot"><img src="https://img.shields.io/github/issues-pr/IweZix/vue-boilerplate" alt="pull-requests"/></a>
+</div>
 
 Boilerplate for your modern Vue.js project with Vue Router and Bootstrap using :
 
